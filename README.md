@@ -1,14 +1,16 @@
 # TodoAngular
 
-Todo app in Angular
+# Installation
 
 Clone Repository 
 
 Open the project 
 
-install node.js
+Install node.js
 
 npm install angular/cli
+
+Install Boootstrap npm i bootstrap@5.2.1
 
 npm install for node modules
 
@@ -18,8 +20,10 @@ The App will open on localhost/4200
 
 # Use the App
 
-add the Todo in Input
+add the Todo in Input by clicking add button
 
-Mark as done
+You can mark the todo as done
 
-complete button will appear to remove from the list
+After marking Complete button will appear to remove the marked todo from the list
+
+Open Todos (not done) will be shown upon refreshing the browser
